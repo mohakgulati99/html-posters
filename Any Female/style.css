@@ -1,0 +1,31 @@
+@charset "utf-8";
+.bg{
+	height:2400px;
+	width:1800px;
+	background-color:#3c1389;
+}
+
+.textbox{
+	height:420px; 
+	width:1500px;
+	font-family:futura std;
+	font-weight:bold;
+	color:#f2f2f2;
+	text-justify: auto;
+	font-size:60pt;
+	text-align:justify;
+	text-justify:inter-word;
+}
+.circle{
+	height:1900px;
+	width:1900px;
+	border-radius:100%;
+	background-color:#ff3ec4;
+}
+
+.circle2{
+	height:1900px;
+	width:1900px;
+	border: 10px solid #ff0613;
+	border-radius:100%;
+}

@@ -1,0 +1,15 @@
+@charset "utf-8";
+.bg{
+	height:2400px;
+	width:1800px;
+	background-color:#ffbb83;
+}
+.text{
+	font-family:'Eczar';
+	font-weight:800;
+	color:#ff0613;
+	font-size:250px;
+	position:relative;
+	top:870px;
+	left:-390px;
+}

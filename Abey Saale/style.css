@@ -1,0 +1,14 @@
+@charset "utf-8";
+.bg{
+	height:2400px;
+	width:1800px;
+	background-color:#f2f2f2;
+}
+.text{
+	font-size:720px;
+	font-family:Mukta Extrabold;
+	color:#101010;
+}
+.rectangle{
+	background-color:#ff0613;
+}

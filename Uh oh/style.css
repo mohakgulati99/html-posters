@@ -1,0 +1,15 @@
+@charset "utf-8";
+.bg{
+	height:2400px;
+	width:1800px;
+	background-color:#3e247f;
+}
+.circle{
+	height:2900px;
+	width:2900px;
+	border: 24pt solid #ff3ec4;
+	border-radius: 100%;
+	position:absolute;
+	left:-600px;
+	top:1300px;
+}
